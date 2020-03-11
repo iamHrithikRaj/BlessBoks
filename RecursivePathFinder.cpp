@@ -9,7 +9,7 @@ std::vector<int>y; //vector to store y-co-ordinates
 
 static int corrSteps,wrngSteps;
 void updatePosition(int row,int col){
-    /*if current path has been found the 
+    /*if correct path has been found the 
     postion will be updated through this function*/
     ++corrSteps;
     x.push_back(row);
