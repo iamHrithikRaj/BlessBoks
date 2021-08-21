@@ -1,7 +1,7 @@
 {
-  "name": "mew",
+  "name": "blessboks",
   "version": "1.0.0",
-  "description": "mew is a fast & powerful cli tool that help devs automate boring stuff.",
+  "description": "blessboks is a fast & powerful cli tool that help devs automate mundane stuff.",
   "main": "src/main.js",
   "keywords": [],
   "author": "Hrithik Raj",
