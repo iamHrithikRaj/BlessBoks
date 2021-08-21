@@ -1,5 +1,5 @@
  <p align="center">
-    <img width=300 src="./mew-logo.png" alt="mew-logo">
+    <img width=300 src="./assets/mew-logo.png" alt="mew-logo">
  </p>
  
 # mew
