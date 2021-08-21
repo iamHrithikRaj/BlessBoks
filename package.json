@@ -1,0 +1,9 @@
+{
+  "name": "mew",
+  "version": "1.0.0",
+  "description": "mew is a fast & powerful cli tool that help devs automate boring stuff.",
+  "main": "src/main.js",
+  "keywords": [],
+  "author": "Hrithik Raj",
+  "license": "MIT"
+}
