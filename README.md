@@ -1,4 +1,4 @@
-<img width="75px" height="75px" align="right" alt="mew logo" src="./assets/mew-logo.png" title="mew"/>
+<img width="100px" height="100px" align="right" alt="mew logo" src="./assets/mew-logo.png" title="mew"/>
 
  
 # mew
