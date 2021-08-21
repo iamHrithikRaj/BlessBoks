@@ -3,6 +3,6 @@
  </p>
  
 # mew
-mew is a fast &amp; powerful universal package manager
+mew is a fast & powerful cli tool that help devs automate boring stuff.
 
 
