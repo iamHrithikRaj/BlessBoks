@@ -1,6 +1,5 @@
- <p align="center">
-    <img width=300 src="./assets/mew-logo.png" alt="mew-logo">
- </p>
+<img width="75px" height="75px" align="right" alt="mew logo" src="./assets/mew-logo.png" title="mew"/>
+
  
 # mew
 mew is a fast & powerful cli tool that help devs automate boring stuff.
