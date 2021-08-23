@@ -2,6 +2,6 @@
 
  
 # togepi
-togepi is a fast & powerful cli tool that help devs automate mundane stuff.
+togepi is a fast & powerful cli tool that helps devs automate mundane stuff.
 
 
