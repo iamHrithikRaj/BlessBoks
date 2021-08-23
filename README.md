@@ -1,4 +1,4 @@
-<img width="200px" height="200px" align="right" alt="togepi logo" src="./assets/togepi-logo.png" title="togepi"/>
+<img width="200px" height="200px" align="right" alt="togepi logo" src="https://github.com/iamHrithikRaj/togepi/blob/master/assets/togepi-logo.png?raw=true" title="togepi"/>
 
  
 # togepi

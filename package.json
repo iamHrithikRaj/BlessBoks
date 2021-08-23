@@ -1,6 +1,6 @@
 {
   "name": "togepi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "togepi is a fast & powerful cli tool that help devs automate mundane stuff.",
   "main": "src/main.js",
   "keywords": [],
