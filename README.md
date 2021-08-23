@@ -1,7 +1,7 @@
-<img width="100px" align="right" alt="blessboks logo" src="./assets/blessbox-logo.png" title="blessboks"/>
+<img width="300px" height="300px" align="right" alt="togepi logo" src="./assets/togepi-logo.png" title="togepi"/>
 
  
-# blessboks
-blessboks is a fast & powerful cli tool that help devs automate mundane stuff.
+# togepi
+togepi is a fast & powerful cli tool that help devs automate mundane stuff.
 
 
