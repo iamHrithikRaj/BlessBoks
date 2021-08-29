@@ -4,18 +4,18 @@
 togepi is a fast & powerful cli tool that helps devs automate mundane stuff.
 
 
-# Feature List
+## Feature List
 
-* [] Stackoverflow/Youtube/Google search
-* [] create templates for
+* [x] Stackoverflow/Youtube/Google search
+* [x] create templates for
     - Frontend: Angular, React, Vue
     - Backend: Spring Boot, Django, ....
     - Static Website generator: Jekyll, Gastby, ....
     - gitignores <lang>
     - Dockerfiles
 
-* [] Git alias for quick git commit
-* [] Automatic uploading on github
-* [] Gits upload file
-* [] create a wrapper over gh cli
-* [] ASCII art
+* [ ] Git alias for quick git commit
+* [ ] Automatic uploading on github
+* [ ] Gits upload file
+* [ ] create a wrapper over gh cli
+* [ ] ASCII art
