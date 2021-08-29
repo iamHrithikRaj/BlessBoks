@@ -1,12 +1,20 @@
 {
   "name": "togepi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "togepi is a fast & powerful cli tool that help devs automate mundane stuff.",
   "main": "src/main.js",
+  "scripts": {
+    "lint": "eslint src/"
+  },
   "keywords": [],
   "author": "Hrithik Raj",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^8.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
   }
 }

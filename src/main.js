@@ -1,22 +1,30 @@
+// external libs import
 const inquirer = require("inquirer");
+const fs = require("fs");
 
-inquirer
-  .prompt([
-    /* Pass your questions in here */
-    {
-      type: "confirm",
-      name: "toBeDelivered",
-      message: "Is this for delivery?",
-      default: false,
-    },
-  ])
-  .then((answers) => {
-    // Use user feedback for... whatever!!
-  })
-  .catch((error) => {
-    if (error.isTtyError) {
-      // Prompt couldn't be rendered in the current environment
-    } else {
-      // Something else went wrong
-    }
-  });
+// internal lib import
+const buildConfig = require("./buildConfig");
+
+const exitingConfig = fs.existsSync(".togepi.json");
+
+if (exitingConfig) {
+  inquirer
+    .prompt([
+      /* Pass your questions in here */
+      {
+        type: "confirm",
+        name: "overwrite",
+        message:
+          "togepi-config.json already exists! Would you like to overwrite it?",
+        default: false,
+      },
+    ])
+    .then((answers) => {
+      if (answers.overwite) {
+        // TODO
+        buildConfig();
+      } else console.log("Goodbye! 👋");
+    });
+} else {
+  buildConfig();
+}
