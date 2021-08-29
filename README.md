@@ -6,8 +6,8 @@ togepi is a fast & powerful cli tool that helps devs automate mundane stuff.
 
 ## Feature List
 
-* [x] Stackoverflow/Youtube/Google search
-* [x] create templates for
+* [ ] Stackoverflow/Youtube/Google search
+* [ ] create templates for
     - Frontend: Angular, React, Vue
     - Backend: Spring Boot, Django, ....
     - Static Website generator: Jekyll, Gastby, ....
